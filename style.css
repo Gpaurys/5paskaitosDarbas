@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+}
+
+main {
+    height: 100vh;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.photo {
+    padding-top: 12%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img {
+    border: 5px solid #000;
+    border-radius: 50%;
+    text-align: center;  
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    margin-top: -32px;
+    color:rgb(113, 81, 119)
+}
+
+.text {
+    text-align: center;
+    width: 205px;
+    padding-top: 70px;
+    margin: 0 auto;
+    text-align:justify ;
+}
+
+.down-arrow {
+    padding-top: 80px;
+    font-size: 4em;
+    font-weight: bolder;
+    transform: rotateZ(90deg);
+    text-align: center;
+    padding-bottom: 85px;
+}
